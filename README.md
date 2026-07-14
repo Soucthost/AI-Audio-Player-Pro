@@ -48,10 +48,12 @@ RJxxxx/
 ---
 
 ## 截图 (Screenshots)
-https://ibb.co/ksxSft8b
-https://ibb.co/JRwgJyB7
-https://ibb.co/MkwmWJ5J
-https://ibb.co/6JBD8g21
+<img width="1100" height="811" alt="localaudio" src="https://github.com/user-attachments/assets/dcfeb513-354c-461d-b1c7-34afaa4ad651" />
+<img width="1097" height="798" alt="playing" src="https://github.com/user-attachments/assets/f89e7002-5fcd-45bd-813d-9f32e764af31" />
+<img width="1100" height="811" alt="search2" src="https://github.com/user-attachments/assets/0c541585-3bb7-4000-913a-02267d596dca" />
+<img width="1100" height="811" alt="search1" src="https://github.com/user-attachments/assets/1c19b7f0-7547-4fcb-902b-04c9fee578f0" />
+
+
 
 ## 下载 (Download)
 
