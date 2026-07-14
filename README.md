@@ -47,8 +47,6 @@ RJxxxx/
 
 ---
 
-## 截图 (Screenshots)
-
 ## 下载 (Download)
 
 最新版本:
