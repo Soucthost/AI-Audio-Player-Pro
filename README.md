@@ -47,11 +47,17 @@ RJxxxx/
 
 ---
 
+## 截图 (Screenshots)
+https://ibb.co/ksxSft8b
+https://ibb.co/JRwgJyB7
+https://ibb.co/MkwmWJ5J
+https://ibb.co/6JBD8g21
+
 ## 下载 (Download)
 
 最新版本:
 
-[https://github.com/Soucthost/AI-Audio-Player-Pro/releases](https://github.com/你的用户名/AI-Audio-Player-Pro/releases)
+[https://github.com/Soucthost/AI-Audio-Player-Pro/releases](https://github.com/Soucthost/AI-Audio-Player-Pro/releases)
 
 ## 系统要求 (System Requirements)
 
